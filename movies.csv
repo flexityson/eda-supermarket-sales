@@ -1,0 +1,51 @@
+title,year,genre,budget_million,revenue_million,rating,votes,runtime_min,director
+The Dark Knight,2008,Action,185,1005,9.0,2500000,152,Christopher Nolan
+Avengers Endgame,2019,Action,356,2798,8.4,1100000,181,Anthony Russo
+Inception,2010,Sci-Fi,160,836,8.8,2300000,148,Christopher Nolan
+The Godfather,1972,Crime,6,246,9.2,1800000,175,Francis Ford Coppola
+Interstellar,2014,Sci-Fi,165,773,8.6,1900000,169,Christopher Nolan
+Parasite,2019,Thriller,11,258,8.5,800000,132,Bong Joon-ho
+Joker,2019,Crime,55,1079,8.4,1100000,122,Todd Phillips
+The Lion King,1994,Animation,45,987,8.5,1000000,88,Roger Allers
+Titanic,1997,Romance,200,2187,7.9,1100000,194,James Cameron
+Forrest Gump,1994,Drama,55,678,8.8,2000000,142,Robert Zemeckis
+The Matrix,1999,Sci-Fi,63,463,8.7,1900000,136,Lana Wachowski
+Pulp Fiction,1994,Crime,8,213,8.9,2000000,154,Quentin Tarantino
+The Shawshank Redemption,1994,Drama,25,16,9.3,2700000,142,Frank Darabont
+Schindler's List,1993,Drama,22,322,9.0,1400000,195,Steven Spielberg
+The Avengers,2012,Action,220,1519,8.0,1300000,143,Joss Whedon
+Gladiator,2000,Action,103,460,8.5,1500000,155,Ridley Scott
+The Lord of the Rings,2003,Fantasy,94,1141,8.9,1800000,201,Peter Jackson
+Harry Potter,2001,Fantasy,125,974,7.6,700000,152,Chris Columbus
+Spider-Man,2002,Action,139,821,7.4,700000,121,Sam Raimi
+Black Panther,2018,Action,200,1347,7.3,700000,134,Ryan Coogler
+Frozen,2013,Animation,150,1274,7.4,600000,102,Chris Buck
+Toy Story,1995,Animation,30,373,8.3,1000000,81,John Lasseter
+Finding Nemo,2003,Animation,94,940,8.1,1000000,100,Andrew Stanton
+Up,2009,Animation,175,735,8.2,1100000,96,Pete Docter
+WALL-E,2008,Animation,180,521,8.4,1100000,98,Andrew Stanton
+The Silence of the Lambs,1991,Thriller,19,272,8.6,1400000,118,Jonathan Demme
+Se7en,1995,Thriller,33,327,8.6,1600000,127,David Fincher
+Fight Club,1999,Drama,63,101,8.8,2100000,139,David Fincher
+Good Will Hunting,1997,Drama,10,225,8.3,900000,126,Gus Van Sant
+A Beautiful Mind,2001,Drama,58,313,8.2,700000,135,Ron Howard
+The Wolf of Wall Street,2013,Drama,100,392,8.2,1400000,180,Martin Scorsese
+Django Unchained,2012,Western,100,425,8.4,1500000,165,Quentin Tarantino
+Inglourious Basterds,2009,War,70,321,8.3,1400000,153,Quentin Tarantino
+The Revenant,2015,Adventure,135,533,8.0,900000,156,Alejandro Inarritu
+Mad Max Fury Road,2015,Action,185,375,8.1,1000000,120,George Miller
+Gravity,2013,Sci-Fi,100,723,7.7,800000,91,Alfonso Cuaron
+The Martian,2015,Sci-Fi,108,630,8.0,900000,144,Ridley Scott
+Dune,2021,Sci-Fi,165,401,8.0,700000,155,Denis Villeneuve
+No Time to Die,2021,Action,250,774,7.3,400000,163,Cary Fukunaga
+Top Gun Maverick,2022,Action,170,1493,8.3,500000,130,Joseph Kosinski
+Everything Everywhere,2022,Sci-Fi,14,69,7.8,400000,139,Daniel Kwan
+The Batman,2022,Action,200,770,7.8,600000,176,Matt Reeves
+Doctor Strange,2016,Action,165,677,7.5,600000,115,Scott Derrickson
+Thor Ragnarok,2017,Action,180,854,7.9,700000,130,Taika Waititi
+Guardians of the Galaxy,2014,Action,170,774,8.0,1100000,121,James Gunn
+Captain America,2016,Action,250,1153,7.8,800000,147,Anthony Russo
+Iron Man,2008,Action,140,585,7.9,900000,126,Jon Favreau
+Wonder Woman,2017,Action,149,822,7.4,600000,141,Patty Jenkins
+Aquaman,2018,Action,160,1148,6.9,400000,143,James Wan
+Shazam,2019,Action,100,366,7.0,300000,132,David Sandberg
