@@ -1,14 +1,49 @@
-# 🛒 Supermarket Sales EDA
+# 📊 Data Analysis Portfolio — Week 1
 
-Exploratory Data Analysis on 50 supermarket transactions across Bangkok, Chiang Mai & Phuket.
+**Author:** Iung Seangchanmony  
+**Program:** Year 1 Data Science & AI Engineering  
+**GitHub:** github.com/flexityson
 
-## Key Findings
-1. Electronics dominates revenue at 1,007.86 — nearly double Clothing (644.83)
-2. Chiang Mai customers rate highest at 8.23 vs Phuket's 7.54
-3. Payment methods nearly equal — Credit Card and E-wallet tied at 17 uses each
+# Data Analysis Projects
 
-## Tools Used
-- Python, Pandas, Jupyter Notebook
+I'm a first-year Data Science and AI Engineering student. 
+This repository is where I build real projects outside of 
+class to develop skills that actually matter.
 
-## Author
-(Iung Seangchanmony) — Y1 Data Science & AI Engineering
+Everything here was written by me. No copy-paste. 
+
+Everything else is just distraction keep learning and keep building.
+
+---
+
+## What's in here
+
+**Supermarket Sales EDA**  
+Started with a raw CSV and explored it from scratch — 
+distributions, groupings, patterns across 3 Thai cities. 
+Nothing fancy, but I wrote every line and understood 
+every output.
+
+**Data Cleaning**  
+Took a deliberately broken dataset and fixed it. Missing 
+values, duplicates, wrong data types. The unglamorous 
+work that makes analysis possible.
+
+**Movie Industry Analysis**  
+The question I actually wanted to answer: does spending 
+more money make a better film? Short answer — no. 
+The Godfather had a $6M budget and a 9.2 rating. 
+Covered 50 years of cinema across revenue, ratings, 
+directors, and profitability.
+
+---
+
+## Stack
+Python · Pandas · Matplotlib · Jupyter · Git
+
+---
+
+## What's next
+Week 2 — SQL and databases. Week 3 — first machine 
+learning model. Building toward a deployed project 
+by end of month.
