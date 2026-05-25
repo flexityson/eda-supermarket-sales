@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio — Week 1
+#  Data Analysis Portfolio — Week 1
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 About This Repository
+##  About This Repository
 
 I'm a first-year Data Science and AI Engineering student
 building real projects outside of class — because
@@ -21,9 +21,9 @@ Every line understood before it was committed.
 
 ---
 
-## 📁 Projects
+##  Projects
 
-### 1. 🛒 Supermarket Sales — Exploratory Data Analysis
+### 1.  Supermarket Sales — Exploratory Data Analysis
 **File:** `eda_notebook.ipynb`
 
 Explored raw supermarket sales data from scratch —
@@ -43,7 +43,7 @@ distributions, groupings, and patterns across 3 cities.
 
 ---
 
-### 2. 🧹 Data Cleaning Project
+### 2.  Data Cleaning Project
 **File:** `day4_cleaning.ipynb`
 
 Took a deliberately broken dataset and fixed it from
@@ -59,7 +59,7 @@ The unglamorous work that makes real analysis possible.
 
 ---
 
-### 3. 🎬 Movie Industry Analysis
+### 3.  Movie Industry Analysis
 **File:** `day6_movies_clean.ipynb`
 
 The question I actually wanted to answer:
@@ -84,7 +84,7 @@ The Godfather had a $6M budget and a 9.2 rating.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -96,7 +96,7 @@ The Godfather had a $6M budget and a 9.2 rating.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Clone this repository
@@ -113,7 +113,7 @@ jupyter notebook
 
 ---
 
-## 📅 What's Next
+##  What's Next
 Week 2 → SQL and databases
 Week 3 → First machine learning model
 Month 2 → Cambodia economic data analysis
@@ -124,7 +124,7 @@ portfolio — one project at a time.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Interested in working together?
 
